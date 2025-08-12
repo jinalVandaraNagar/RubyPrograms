@@ -1,4 +1,4 @@
-# Program to find greater numbers than given number, take array and 1 no from user and find out max nums from that number from given array.
+# 1. Program to find greater numbers than given number, take array and 1 no from user and find out max nums from that number from given array.
 
 arr_val = [1,3,2,4,6,5,7,8,9]
 puts "Array: #{arr_val}"

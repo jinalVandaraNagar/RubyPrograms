@@ -1,4 +1,4 @@
-# Loops – print 1–100, multiplication table, based on given number.
+# 11. Loops – print 1–100, multiplication table, based on given number.
 
 puts "Enter No:"
 no = gets.chomp.to_i
