@@ -20,10 +20,16 @@
 
 9.  Count vowels and consonants from given string.
 
-10. Simple Calculator (add, subtract, multiply, divide, exit).
+10.  Simple Calculator (add, subtract, multiply, divide, exit).
 
-11. Loops – print 1–100, multiplication table, based on given number.
+11.  Loops – print 1–100, multiplication table, based on given number.
 
-12. Conditionals – even/odd checker. 
+12.  Conditionals – even/odd checker. 
 
-13. Conditionals – prime number check.
+13.  Conditionals – prime number check.
+
+14.  Write a Ruby program to compute the sum of elements in a given array.
+
+15.  Write a Ruby program to remove duplicate elements from a given array.
+
+16.  Write a Ruby program to find most occurred item in a given array.
