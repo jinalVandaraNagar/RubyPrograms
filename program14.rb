@@ -5,5 +5,6 @@ puts "Array: #{arr}"
 
 sum = 0
 arr.map {|a| sum += a}
-
 puts "Sum: #{sum}"
+
+# another way: arr.sum()
