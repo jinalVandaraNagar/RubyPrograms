@@ -12,7 +12,7 @@
 
 5.  Fibonacci algorithm - A Fibonacci Sequence is created by adding two numbers to create the next number in the sequence. You then sum that number with the one preceding it to get the next number,, and so on. For example, if you have the sequence 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, then the next number in the sequence is 55.
 
-6.  Missing number game - For this problem, you make a function that examines an array of numbers ranging between 1 and 10 that’s missing one number and have the function find the number that’s missing.For example, the series of numbers could be [2, 1, 5, 4, 6, 9, 7, 8, 10]. This array is missing the number 3. The goal of this problem is to write code that figures out that the number 3 is missing.
+6. Done: Missing number game - For this problem, you make a function that examines an array of numbers ranging between 1 and 10 that’s missing one number and have the function find the number that’s missing.For example, the series of numbers could be [2, 1, 5, 4, 6, 9, 7, 8, 10]. This array is missing the number 3. The goal of this problem is to write code that figures out that the number 3 is missing.
 
 7.  Done: Reversing arrays - In this problem, your objective is to reverse the order of the numbers in an array. For example, if your array was [8, 2, 9, 4], you would want your code to return [4, 9, 2, 8].
 
@@ -30,7 +30,7 @@
 
 14.  Done: Write a Ruby program to compute the sum of elements in a given array.
 
-15.  Write a Ruby program to remove duplicate elements from a given array.
+15.  Done: Write a Ruby program to remove duplicate elements from a given array.
 
 16.  Write a Ruby program to find most occurred item in a given array.
 
