@@ -24,7 +24,7 @@
 
 11.  Done: Loops – print 1–100, multiplication table, based on given number.
 
-12.  Conditionals – even/odd checker. 
+12.  Done: Conditionals – even/odd checker.
 
 13.  Conditionals – prime number check.
 
@@ -32,7 +32,7 @@
 
 15.  Done: Write a Ruby program to remove duplicate elements from a given array.
 
-16.  Write a Ruby program to find most occurred item in a given array.
+16.  Done: Write a Ruby program to find most occurred item in a given array.
 
 17.  Find second largest element from array.
 
