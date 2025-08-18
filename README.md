@@ -34,7 +34,7 @@
 
 16.  Done: Write a Ruby program to find most occurred item in a given array.
 
-17.  Find second largest element from array.
+17.  Done: Find second largest element from array.
 
 18.  Find each element occurance in array and return max and min occurance elements.
 
@@ -42,21 +42,21 @@
 
 20.  Convert inches to feet.
 
-21.  Sort array numbers in asc order.
+21.  Done: Sort array numbers in desc order.
 
 22.  Print fibonacci series up to given number.
 
-23.  Check Leap year.
+23.  Done: Check Leap year.
 
 24.  Check if string is odd or even.
 
-25.  Find longest word in given string o/p.
+25.  Done: Find longest word in given string o/p.
 
-26.  Find common elements from two arrays. Ex: ([-1,3,4,6,7,9],[1,3])->[3], ([1,3,7,4,6,9],[1,2,4,3,7,10])->[1,3,4,7]
+26.  Done: Find common elements from two arrays. Ex: ([-1,3,4,6,7,9],[1,3])->[3], ([1,3,7,4,6,9],[1,2,4,3,7,10])->[1,3,4,7]
 
-27.  Find element position in given array, if element not present return msg 'not present in array.'
+27.  Done: Find element position in given array, if element not present return msg 'not present in array.'
 
-28.  Change every letter to next letter -> 'a' becomes 'b' and so on. z letter is not allowed. 
+28.  Done: Change every letter to next letter -> 'a' becomes 'b' and so on. z letter is not allowed. 
       ```
       i/p: 'hello' -> o/p: 'ifmmp'
       i/p: 'bye' -> o/p: 'czf'
