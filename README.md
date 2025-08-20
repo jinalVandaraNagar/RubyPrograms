@@ -18,7 +18,7 @@
 
 8.  Done: Reverse given string.
 
-9.  Count vowels and consonants from given string.
+9.  Done: Count vowels and consonants from given string.
 
 10.  Simple Calculator (add, subtract, multiply, divide, exit).
 
@@ -48,7 +48,7 @@
 
 23.  Done: Check Leap year.
 
-24.  Check if string is odd or even.
+24.  Check if two strings are anagrams.
 
 25.  Done: Find longest word in given string o/p.
 
@@ -75,3 +75,30 @@
     i/p: "eQaBiT" -> o/p: [1,3,5]
     i/p: "sUn" -> o/p: [1]
     ```
+
+32. Rearrange Array Alternately. 
+    ```
+    Input: arr[] = [1, 2, 3, 4, 5, 6]
+    Output: [6, 1, 5, 2, 4, 3]
+    Explanation: Max element = 6, min = 1, second max = 5, second min = 2, and so on... The modified array is: [6, 1, 5, 2, 4, 3]
+    
+    Input: arr[]= [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110]
+    Output: [110, 10, 100, 20, 90, 30, 80, 40, 70, 50, 60]
+    Explanation: Max element = 110, min = 10, second max = 100, second min = 20, and so on... Modified array is : [110, 10, 100, 20, 90, 30, 80, 40, 70, 50, 60]
+    ```
+
+33. Alternates in an Array - You are given an array arr[], the task is to return a list elements of arr in alternate order (starting from index 0).
+    ```
+    Input: arr[] = [1, 2, 3, 4]
+    Output: 1 3
+
+    Input: arr[] = [1, 2, 3, 4, 5]
+    Output: 1 3 5
+    ```
+34. Immediate Smaller Element -> https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1?page=5&category=Arrays,Strings&sortBy=submissions
+
+35. First negative in every window of size k. -> https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1?page=5&category=Arrays,Strings&sortBy=submissions
+
+36. Form the Largest Number -> https://www.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1?page=6&category=Arrays,Strings&sortBy=submissions
+
+37. Find all pairs with a given sum -> https://www.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1?page=6&category=Arrays,Strings&sortBy=submissions
