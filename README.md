@@ -102,3 +102,37 @@
 36. Form the Largest Number -> https://www.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1?page=6&category=Arrays,Strings&sortBy=submissions
 
 37. Find all pairs with a given sum -> https://www.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1?page=6&category=Arrays,Strings&sortBy=submissions
+
+38. Swap two numbers without a temp variable.
+
+39. Implement bubble sort.
+
+40. Implement binary search.
+
+41. Read a file and count words/lines.
+
+42. Parse JSON data into Ruby objects.
+
+43. Find sum of digits of a number.
+
+44. Draw pattern, take intput n num, based on n, print lines.
+
+```
+  
+      *              1           * * * * *          1
+     * *             22          *       *         2 3
+    * * *            333         *       *        4 5 6
+   * * * *           4444        *       *       7 8 9 10
+  * * * * *          55555       * * * * *
+    n = 5            n = 5         n = 5          n = 4
+
+
+        *             * * * * * * *             * * * * 
+      *   *            * * * * * * *             * * * 
+    *       *           * * * * * * *             * * 
+  *           *          * * * * * * *             *
+    *       *             * * * * * * *           * *
+      *   *                * * * * * * *         * * *
+        *                   * * * * * * *       * * * *
+      n = 4                     n = 7            n = 4
+```
