@@ -51,3 +51,15 @@ for i in 0..n-1 do
   space -= 1
 end
 
+puts "\n\n"
+# pattern 5:
+for i in 1..n do
+  if i == 1
+    puts " " * (n - i) + "  1"
+  else
+    start_end = " 1"
+    str = ''
+    (i-1).times {|val| str += " #{i}"}
+    puts " " * (n - i) + start_end + str + start_end
+  end
+end
