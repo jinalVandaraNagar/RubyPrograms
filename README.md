@@ -115,7 +115,7 @@
 
 43. Find sum of digits of a number.
 
-44. Draw pattern, take intput n num, based on n, print lines.
+44. Done: Draw pattern, take intput n num, based on n, print lines.
 
 ```
 <a>
