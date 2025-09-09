@@ -76,7 +76,7 @@
     i/p: "sUn" -> o/p: [1]
     ```
 
-32. Rearrange Array Alternately. 
+32. Done: Rearrange Array Alternately. 
     ```
     Input: arr[] = [1, 2, 3, 4, 5, 6]
     Output: [6, 1, 5, 2, 4, 3]
@@ -113,7 +113,7 @@
 
 42. Parse JSON data into Ruby objects.
 
-43. Find sum of digits of a number.
+43. Done: Find sum of digits of a number.
 
 44. Done: Draw pattern, take intput n num, based on n, print lines.
 
