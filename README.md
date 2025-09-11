@@ -87,7 +87,7 @@
     Explanation: Max element = 110, min = 10, second max = 100, second min = 20, and so on... Modified array is : [110, 10, 100, 20, 90, 30, 80, 40, 70, 50, 60]
     ```
 
-33. Alternates in an Array - You are given an array arr[], the task is to return a list elements of arr in alternate order (starting from index 0).
+33. Done: Alternates in an Array - You are given an array arr[], the task is to return a list elements of arr in alternate order (starting from index 0).
     ```
     Input: arr[] = [1, 2, 3, 4]
     Output: 1 3
